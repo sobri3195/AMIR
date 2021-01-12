@@ -1,7 +1,7 @@
 
 AMIR GAMES
 ============================
-Created by dr. Muhammad Sobri Maulana, CEH, OSCP
+Created by Muhammad Sobri Maulana
 
 AMIR - Ayo Minum Air
 
